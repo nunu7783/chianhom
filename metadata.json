@@ -1,0 +1,6 @@
+{
+  "name": "Chia Nhóm Lớp Học",
+  "description": "Ứng dụng chia nhóm sinh viên ngẫu nhiên dành cho giảng viên với giao diện thẻ màu cỡ chữ lớn để trình chiếu trên màn hình lớp học.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
